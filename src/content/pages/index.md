@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Gamming Blog
+tagline: Let Play Together
+featuredImage: /assets/gaming-blog.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
